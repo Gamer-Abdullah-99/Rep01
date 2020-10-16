@@ -18,7 +18,8 @@ Git status
 1. Kirchoff
    - ARMA
      - Zelina
-      
-[ ] Finish My Lectures
-[x] Gaming
+     
+- [ ] Finish My Lectures
+- [x] Gaming
 
+s
