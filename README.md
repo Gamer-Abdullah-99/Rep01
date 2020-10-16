@@ -4,8 +4,6 @@
 **My name is _Syed Abdullah Bin Naseer_**
 ~~Fuck You~~
 
-https://www.youtube.com/
-
 >Heyaa
 ```
 Git status
@@ -22,4 +20,3 @@ Git status
 - [ ] Finish My Lectures
 - [x] Gaming
 
-s
